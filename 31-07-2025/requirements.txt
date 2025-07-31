@@ -1,0 +1,4 @@
+langchain
+ipykernel
+langchain_community
+streamlit
