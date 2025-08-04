@@ -1,0 +1,13 @@
+streamlit
+nltk
+langchain
+Ollama
+python-dotenv
+langchain-ollama
+
+transformers
+datasets
+peft
+trl
+accelerate
+bitsandbytes
