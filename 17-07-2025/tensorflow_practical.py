@@ -20,6 +20,8 @@ print("sum is",add(x,y).numpy())
 li = tf.constant([1,2,3,4])
 print("rank",tf.rank(li))
 print("shape",tf.shape(li))
+print("shape",tf.shape(li))
+
 
 
 
